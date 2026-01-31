@@ -18,5 +18,12 @@ How to run
 ./digital
 Login details
 
-Admin Username: admin Password: 1234
-Student Login using ID and password from students.txt Example: ID: 2 Password: 2001
+Admin
+Username: admin
+Password: 1234
+
+Student 
+Login using ID and password from students.txt 
+
+Example: ID: 2 
+Password: 2001
