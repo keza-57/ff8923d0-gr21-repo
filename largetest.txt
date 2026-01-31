@@ -1,0 +1,13 @@
+Subjects:
+math
+physics
+programming
+algorithms
+databases
+
+Students:
+0002;Liam Smith;2001;math:90;physics:80;programming:85;algorithms:;databases:
+0003;Olivia Williams;2002;math:;physics:70;programming:60;algorithms:;databases:
+0004;Lydia Keza;2006;math:75;physics:;programming:;algorithms:88;databases:
+0005;Ariella;2005;math:;physics:;programming:90;algorithms:;databases:
+0006;Arnold;2008;math:60;physics:55;programming:;algorithms:;databases:
